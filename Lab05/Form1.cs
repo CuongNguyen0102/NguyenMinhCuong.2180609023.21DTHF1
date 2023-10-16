@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Lab05.Model;
 
-//Nguyen Thanh Truong
+//Nguyen Thanh Truong da o day
 namespace Lab05
 {
     public partial class Form1 : Form
